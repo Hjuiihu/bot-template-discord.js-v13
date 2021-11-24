@@ -45,7 +45,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## Authors
 
-👤 **Naman Vrati**
+👤 **❱•❰ DELAZDR**
 
 - Discord: https://discord.gg/bHUtYAqrm2
 - Twitter: [@hjuiihu](https://twitter.com/namanvrati)
@@ -54,7 +54,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## 📝 License
 
-Copyright © 2021 [Naman Vrati](https://github.com/hjuiihu).<br />
-This project is [ISC](https://github.com/Hjuiihu/bot-template-discord.js-v13/blob/main/LICENSE) licensed.
+Copyright © 2021 [❱•❰ DELAZDR](https://github.com/hjuiihu).<br />
+This project is [MIT](https://github.com/Hjuiihu/bot-template-discord.js-v13/blob/main/LICENSE) licensed.
 
 ---
