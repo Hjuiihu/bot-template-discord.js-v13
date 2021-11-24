@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to ❱•❰ DELAZDR Discord Bot Template 👋</h1>
 
-![image](https://cdn.discordapp.com/attachments/892758163575685152/913043857271304232/github_template_discord_readme.png)
+![image](https://cdn.discordapp.com/attachments/892758163575685152/913045281262686208/github_template_discord_readme.png)
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000" />
