@@ -48,7 +48,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 👤 **❱•❰ DELAZDR**
 
 - Discord: https://discord.gg/bHUtYAqrm2
-- Twitter: [@hjuiihu](https://twitter.com/namanvrati)
+- Twitter: [@hjuiihu](https://twitter.com/delazdr)
 - Github: [@hjuiihu](https://github.com/hjuiihu)
 
 
