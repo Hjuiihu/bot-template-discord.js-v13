@@ -10,7 +10,7 @@
   <a href="https://github.com/Hjuiihu/bot-template-discord.js-v13/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/hjuiihu" target="_blank">
+  <a href="https://twitter.com/delazdr" target="_blank">
     <img alt="Twitter: Hjuiihu" src="https://img.shields.io/twitter/follow/hjuiihu.svg?style=social" />
   </a>
 </p>
